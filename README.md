@@ -1,13 +1,17 @@
 <h1 align="center">Hi 👋, my name is Helder Ventura</h1>
 <h3 align="center">I am a Kotlin and Jetpack Compose enthusiast and mobile app developer with a passion for creating engaging Android applications. Always exploring new technologies and ways to blend my interests in afro-latin dances, bonsais, legos, and travel into innovative projects.</h3>
 
-- 🌱 I’m currently learning **Android Development + Laravel**
+🌟 My own quote:
+> Be **SOLID**, stay **DRY**, and always **KISS** your bugs goodbye! 
+
+
+- 🛠️ I regularly work with **Android Development + Laravel**
 
 - 👨‍💻 All of my projects are available here in github [https://github.com/hventura?tab=repositories](https://github.com/hventura?tab=repositories)
 
-- 💬 Ask me about **Kotlin, Android**
+- 💬 I love to talk about **Kotlin**, **Android**, and **Laravel** and i am always eager to explore innovative approaches and fresh perspectives!
 
-- 📫 How to reach me **hfs.ventura@gmail.com**
+- 📫 You can reach me through **hfs.ventura@gmail.com**
 
 <h3>Connect with me:</h3>
 <table>
@@ -64,7 +68,7 @@
 </tr>
 </table>
 
-<h3>And Tools i am familiar too:</h3>
+<h3>And Tools i am familiar with:</h3>
 <table>
 <tr>
 <td align="center" width="96"><a href="https://www.jetbrains.com/phpstorm/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/PhpStorm_Icon.svg/1024px-PhpStorm_Icon.svg.png" alt="Jetbrains_phpStorm" width="40" height="40"/></a></td>
