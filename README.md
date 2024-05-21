@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, my name is Helder Ventura</h1>
-<h3 align="center">I am a Kotlin and Jetpack Compose enthusiast and mobile app developer with a passion for creating engaging Android applications. Always exploring new technologies and ways to blend my interests in afro-latin dances, bonsais, legos, and travel into innovative projects.</h3>
+<h3 align="center">I am a Kotlin and Jetpack Compose enthusiast, skilled in mobile and backend app development. Passionate about creating engaging Android applications, I'm always exploring new technologies. I blend interests in afro-latin dances, bonsais, legos, and travel into innovative projects.</h3>
 
 🌟 My own quote:
 > Be **SOLID**, stay **DRY**, and always **KISS** your bugs goodbye! 
