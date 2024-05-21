@@ -2,7 +2,7 @@
 <h3 align="center">I am a Kotlin and Jetpack Compose enthusiast, skilled in mobile and backend app development. Passionate about creating engaging Android applications, I'm always exploring new technologies. I blend interests in afro-latin dances, bonsais, legos, and travel into innovative projects.</h3>
 
 🌟 My own quote:
-> Be **SOLID**, stay **DRY**, and always **KISS** your bugs goodbye! 
+> Be **SOLID**, keep **DRY**, and always **KISS** your bugs goodbye! 
 
 
 - 🛠️ I regularly work with **Android Development + Laravel**
