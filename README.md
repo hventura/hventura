@@ -16,7 +16,7 @@
 <h3>Connect with me:</h3>
 <table>
 <tr>
-<td align="center" width="96"><a href="https://codepen.io/https://codepen.io/hventura" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="https://codepen.io/hventura" height="30" width="40"/></a></td>
+<td align="center" width="96"><a href="https://codepen.io/hventura" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="https://codepen.io/hventura" height="30" width="40"/></a></td>
 <td align="center" width="96"><a href="https://dev.to/hventura" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="hventura" height="30" width="40"/></a></td>
 <td align="center" width="96"><a href="https://twitter.com/_helderventura_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="_helderventura_" height="30" width="40"/></a></td>
 </tr>
